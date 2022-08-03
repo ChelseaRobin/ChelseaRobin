@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChelseaRobin
 - 👀 I’m interested in JAVA
-- 🌱 I’m currently learning SQL, Docker, CI/CD pipeline
+- 🌱 I’m currently learning SQL, Docker
 - 💞️ I’m looking to collaborate on anything once I've gotten the hang of this
 - 📫 How to reach me aeslehc@protonmail.com
 
