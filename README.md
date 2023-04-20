@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChelseaRobin
-- 👀 I’m interested in JAVA
+- 👀 I’m interested in Backend /Devops
 - 🌱 I’m currently learning C# & .NET
 - 📫 How to reach me aeslehc@protonmail.com
 
